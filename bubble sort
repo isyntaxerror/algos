@@ -35,4 +35,4 @@ int main()
 // optimised bubble sort
 // best TC: O(n); worst TC O(n^2);
 // auxiliary space: O(1)
-// isyntaxerror
+// isyntaxerror;
