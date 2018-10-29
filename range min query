@@ -77,3 +77,4 @@ int *constructST(int arr[], int n)
     constructSTUtil(arr, 0, n-1, st, 0);  
     return st; 
 } 
+//isyntaxerror
